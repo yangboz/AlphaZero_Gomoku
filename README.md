@@ -9,7 +9,7 @@ References:
 - Each move  with 400 playouts:  
 ![playout400](https://raw.githubusercontent.com/junxiaosong/AlphaZero_Gomoku/master/playout400.gif)
 - Each move  with 800 playouts:  
-![playout800](https://raw.githubusercontent.com/junxiaosong/AlphaZero_Gomoku/master/playout800.gif)
+![playout800](https://raw.githubusercontent.com/yangboz/AlphaZero_Gomoku/master/playout800.gif)
 
 ### Requirements
 To play with the trained AI models, only need:
